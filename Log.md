@@ -6,10 +6,10 @@ Day to Day Progress Template
 ```
 ## Day N - Topic
 
-Date  : DD/MM/YYYY
-Guide : [Link](URL)
+| Date       | Guide       | Description |
+| ---------- | ----------- | ----------- |
+| DD/MM/YYYY | [Link](URL) | Lorem Ipsum |
 
-Description
 
 ### What I did/learned today?
 
@@ -28,11 +28,6 @@ Description (if applicable)
 | Date       | Guide                                                                                        | Description                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 06/05/2022 | [developer.confluent.io/quickstart](https://developer.confluent.io/quickstart/kafka-docker/) | Today I learned about getting started with Apache Kafka and using it from Docker Container. |
-
-
-
-<!-- - **Date**  : 06/05/2022
-- **Guide** : [developer.confluent.io/quickstart](https://developer.confluent.io/quickstart/kafka-docker/) -->
 
 
 ### What I did/learned today?
